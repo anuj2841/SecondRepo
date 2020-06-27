@@ -23,6 +23,7 @@ public class SpringBootAopIntegrationApplication implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		
 		System.out.println("Inside run");
+		System.out.println("To test git");
 		s.setName("Anuj Singh");
 		s.getName();
 		s.setAge("25");
