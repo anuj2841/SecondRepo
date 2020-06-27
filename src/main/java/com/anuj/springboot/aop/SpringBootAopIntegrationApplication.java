@@ -24,7 +24,8 @@ public class SpringBootAopIntegrationApplication implements CommandLineRunner{
 		
 		System.out.println("Inside run");
 		System.out.println("To test git");
-		System.out.println("To test git clone");
+    System.out.println("To test git clone");
+		System.out.println("To test git clone2222");
 		s.setName("Anuj Singh");
 		s.getName();
 		s.setAge("25");
